@@ -1,4 +1,4 @@
-//% weight=0 color=55 icon="\uf13d" block="MiJia"
+//% weight=0 color=55 icon="\uf13d" block="mijia"
 namespace mijia { 
 
 

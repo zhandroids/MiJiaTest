@@ -1,6 +1,6 @@
 {
     "name": "MiJiaTest",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "测试扩展写法",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "mijia.ts"
+        "mijia.ts",
+        "_locales/zh/mijia-strings"
     ],
     "testFiles": [
         "test.ts"

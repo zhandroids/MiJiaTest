@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "mijia.ts",
-        "_locales/zh/mijia-strings"
+        "_locales/zh/mijia-strings.json"
     ],
     "testFiles": [
         "test.ts"
